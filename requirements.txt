@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain-classic
+langchain-openai
+langchain-text-splitters
+
+faiss-cpu
+
+openai
+python-dotenv
+
+wikipedia
+youtube-transcript-api
